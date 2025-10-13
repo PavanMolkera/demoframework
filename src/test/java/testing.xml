@@ -1,0 +1,7 @@
+<suite name="Test Suite">
+    <test name="Login Test">
+        <classes>
+            <class name="testcases.LoginTest"/>
+        </classes>
+    </test>
+</suite>
