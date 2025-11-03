@@ -14,5 +14,4 @@ The framework automates web application login scenarios using:
 
 ---
 
-## 🧱 Framework Structure
 
