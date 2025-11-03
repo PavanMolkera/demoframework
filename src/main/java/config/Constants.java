@@ -12,3 +12,4 @@ public class Constants {
     public static final String BROWSER = ConfigReader.getProperty("browser");
     public static final int IMPLICIT_WAIT = Integer.parseInt(ConfigReader.getProperty("implicitWait"));
 }
+//
